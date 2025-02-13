@@ -19,9 +19,9 @@
 ---
 
 ## 📊 Minhas estatísticas
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape2231&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotape2231&layout=compact&theme=radical)
 
 ---
 
