@@ -6,7 +6,7 @@
 
 ## 📜 Sobre mim
 💡 Apaixonado por resolver problemas com código.  
-🎯 Focado em [Front-end, Back]  
+🎯 Focado em [Front-end]  
 🚀 Sempre aprendendo algo novo!  
 
 ---
