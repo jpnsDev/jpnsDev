@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Joao]!
+# 👋 OI, eu sou Joao!
 
 🚀 Desenvolvedor [Front-End] | 💻 Apaixonado por tecnologia e inovação  
 
