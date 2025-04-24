@@ -6,8 +6,8 @@
 
 ## 📜 Sobre mim
 💡 Apaixonado por resolver problemas com código.  
-🎯 Focado em [Front-end] e atualmente aprendendo [Python].  
-🚀 Sempre aprendendo algo novo!
+🎯 Focado em Front-end e atualmente estudando Python.  
+🚀 Sempre em busca de evolução e novos desafios!
 
 ---
 
@@ -19,13 +19,26 @@
 
 ---
 
-## 📊 Minhas estatísticas
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape2231&show_icons=true&theme=radical)
+## 💼 Projeto em destaque
+### [Pokédex com Minigames](https://github.com/jotape2231/Pokedex)
+Um projeto interativo com uma Pokédex e dois minigames integrados!  
+Trabalhei com HTML, CSS e JavaScript para criar uma interface amigável e divertida. Ótimo exercício de lógica, manipulação de dados e DOM.
 
+---
+
+## 🎓 O que estou aprendendo
+- Python (estruturas de dados, automações e lógica de programação)
+- Boas práticas em JavaScript
+- Projetos interativos com foco em UX
+
+---
+
+## 📊 Minhas estatísticas
+![jotape2231 GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape2231&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotape2231&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Entre em contato!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jotape2231)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpnsdev)
